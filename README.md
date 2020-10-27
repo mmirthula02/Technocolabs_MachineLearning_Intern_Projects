@@ -7,3 +7,5 @@
    
    Task 2: Exploring remaining finicial features in dataset
 
+   Task 3 : Performing Logistic regression
+
