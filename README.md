@@ -18,4 +18,7 @@
    Task 7 : Deriving finicial insights
    
    
+- Credit card default app deployment on streamlite 
+   
+   
 
