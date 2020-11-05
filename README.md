@@ -19,6 +19,8 @@
    
    
 - Credit card default app deployment on streamlite 
+
+ http://localhost:8501
    
    
 
