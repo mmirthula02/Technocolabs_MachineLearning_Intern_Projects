@@ -18,11 +18,5 @@
    Task 7 : Deriving finicial insights
    
    
-- Credit card default app deployment on Streamlite :
 
-  Choose your dersired classifier from the drop down box , set your hyper parameters accordingly and obtain the accuracy metrics and graph
-
-  http://localhost:8501
-   
-   
 
